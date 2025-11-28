@@ -1,0 +1,5 @@
+{
+  "name": "DataXray",
+  "description": "An intelligent dataset discovery engine powered by Gemini 2.5 Flash and Google Search Grounding to find specific datasets across Kaggle, GitHub, Government portals, and more.",
+  "requestFramePermissions": []
+}
